@@ -5,9 +5,16 @@
 
 int main() { 
 int i = 0; 
+int j;
+printf("Donnez un nombre de 0 a 20: ")
+scanf("%d",&i);
 do {
-printf("La valeur de i est %d\n", i); 
-++i; } while (i < 5);
+i=i+j
+print
+++i; 
+} while (i < 5) (j<5) {
+	print("\n Etudiant\n");
+}
  return 0; 
 }
 
