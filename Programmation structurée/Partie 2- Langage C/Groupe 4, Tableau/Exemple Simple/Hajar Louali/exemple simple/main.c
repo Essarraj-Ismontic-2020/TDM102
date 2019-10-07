@@ -2,21 +2,19 @@
 #include <stdlib.h>
 
 /* run this program using the console pauser or add your own getch, system("pause") or input loop */
-
+//hajar louali
 int main(int argc, char *argv[]) {
 
 
-    int tableau[4], i = 0;
+    int t[4]={20,30,60,70};
+   
+     printf("%d\n",t[0]);
+     printf("%d\n",t[1]);
+     printf("%d\n",t[2]);
+     printf("%d",t[3]);
 
-    tableau[0] = 10;
-    tableau[1] = 23;
-    tableau[2] = 505;
-    tableau[3] = 8;
 
-    for (i = 0 ; i < 4 ; i++)
-    {
-        printf("%d\n", tableau[i]);
-    }
+
 
     return 0;
 

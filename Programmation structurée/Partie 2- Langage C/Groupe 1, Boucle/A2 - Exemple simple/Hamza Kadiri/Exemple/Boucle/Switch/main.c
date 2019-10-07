@@ -5,14 +5,14 @@
 //
 int main()
  
-void print_cas(int cas)
+void print_cas(int cas);
 
 { 
 
      switch (cas)
    {
-   case IMPOSSIBLE: printf("im");
+   case IMPOSSIBLE: printf("im"); break;
    case POSSIBLE:   printf("possible\n"); break;
-   case default:    printf("erreur interne du logiciel numéro xx\n");
+   default:    printf("erreur interne du logiciel numéro xx\n");
    }
 }
