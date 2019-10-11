@@ -10,8 +10,6 @@ int main()
     printf("Entrer la valeur dans le tableau:");
     scanf("%d",&tableau[i]);
     }
-    printf("%d %d %d %d", tableau[0],tableau[1],tableau[2],tableau[3]);
-
     return 0;
 }
 
