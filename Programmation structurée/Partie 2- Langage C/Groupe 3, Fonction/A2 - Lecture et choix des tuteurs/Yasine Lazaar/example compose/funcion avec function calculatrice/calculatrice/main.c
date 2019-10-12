@@ -24,25 +24,25 @@ float multiplication (float x ,float y){
 }
 
 float  calculatrice (float x ,float y,int op ){
-	
+	float yes = 0 ;
 switch(op) {
-	float yes ;
+   case 1 : 
       yes=aditione(x,y);
-	case 1 : 
-	printf(" la somme est : %f ",aditione(x,y)  );
 	break;
+   case 2 :
 	yes=subsaction(x,y);
-	case 2 : printf(" la somme est : %f ",subsaction(x,y)  );
 	break;
+	case 3 :
 	yes=devition(x,y);
-	case 3 : printf(" la somme est : %f ",devition(x,y)  );
 	break;
+	case 4 :
 	yes=multiplication(x,y);
-	case 4 : printf(" la somme est : %f ",multiplication(x,y)  );
 	break;
 	default:
-		printf(" 'Error' entrez un nombre de 1 a 4 ");
+		      yes=aditione(x,y);
 }
+
+  return yes;
 }
 int main(int argc, char *argv[]) {
 	float x , y;
