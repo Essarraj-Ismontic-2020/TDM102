@@ -20,7 +20,7 @@ ru=pr_atva*noar;
 
 printf("Le montant avec TVA est de : %d\n", ru);  //affiche résultat
 
-return 0;  //tout c est bien passé
+ //tout c est bien passé
 
 	return 0;
 }
