@@ -1,5 +1,5 @@
 [Project]
-FileName=Projet1.dev
+FileName=break.dev
 Name=Projet1
 Type=1
 Ver=2
@@ -51,7 +51,7 @@ AutoIncBuildNr=0
 SyncProduct=1
 
 [Unit1]
-FileName=exmpl.c
+FileName=main.c
 CompileCpp=0
 Folder=
 Compile=1
