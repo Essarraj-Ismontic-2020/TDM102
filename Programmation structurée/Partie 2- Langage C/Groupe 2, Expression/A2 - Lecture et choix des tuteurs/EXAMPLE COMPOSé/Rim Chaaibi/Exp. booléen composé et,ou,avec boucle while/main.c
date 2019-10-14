@@ -4,13 +4,12 @@
 /* run this program using the console pauser or add your own getch, system("pause") or input loop */
 
 int main(int argc, char *argv[]) {
-	int b=0;
-	if (b)
+	int i;
+	while(i<=10&&i>0)
 	{
-	printf("vrai");
-}
-	else{
-	printf("faux");
-}
-return 0;
+		printf("la valeur de i est :%d \n",i);
+	(i++);
+		
+	}
+	return 0;
 }
