@@ -2,12 +2,15 @@
 #include <stdlib.h>
 
 /* run this program using the console pauser or add your own getch, system("pause") or input loop */
+void somme (){
+	int somme;
+	int nombre1=20;
+	int nombre2=20;
+	somme=nombre1+nombre2;
+	printf("somme est%d\n",somme);
+}
 
 int main(int argc, char *argv[]) {
-	int i;
-	while(i<=10){
-		printf("la valeur de i est :%d \n",i);
-		i++;
-	}
+	somme();
 	return 0;
 }
