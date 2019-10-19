@@ -1,5 +1,5 @@
 [Project]
-FileName=Projet1.dev
+FileName=boucle do while.dev
 Name=Projet1
 Type=1
 Ver=2
@@ -12,7 +12,7 @@ MakeIncludes=
 Compiler=
 CppCompiler=
 Linker=
-IsCpp=1
+IsCpp=0
 Icon=
 ExeOutput=
 ObjectOutput=
@@ -27,7 +27,7 @@ CommandLine=
 Folders=
 IncludeVersionInfo=0
 SupportXPThemes=0
-CompilerSet=0
+CompilerSet=1
 CompilerSettings=0000000000000000001000000
 UnitCount=1
 
@@ -51,8 +51,8 @@ AutoIncBuildNr=0
 SyncProduct=1
 
 [Unit1]
-FileName=main.cpp
-CompileCpp=1
+FileName=..\boucle for\main.c
+CompileCpp=0
 Folder=
 Compile=1
 Link=1
