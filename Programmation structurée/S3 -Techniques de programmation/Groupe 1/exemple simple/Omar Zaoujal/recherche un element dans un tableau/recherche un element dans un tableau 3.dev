@@ -1,6 +1,6 @@
 [Project]
-FileName=boucles qui s'arrete un valeur.dev
-Name=boucles qui s'arrete un valeur
+FileName=recherche un element dans un tableau 3.dev
+Name=recherche un element dans un tableau 3
 Type=1
 Ver=2
 ObjFiles=
@@ -51,7 +51,7 @@ AutoIncBuildNr=0
 SyncProduct=1
 
 [Unit1]
-FileName=mainbqsuv.c
+FileName=mainruedut3.c
 CompileCpp=0
 Folder=
 Compile=1

@@ -1,15 +1,15 @@
-# Project: boucles qui s'arrete un valeur
+# Project: repetetion 
 # Makefile created by Dev-C++ 5.11
 
 CPP      = g++.exe
 CC       = gcc.exe
 WINDRES  = windres.exe
-OBJ      = mainbqsuv.o
-LINKOBJ  = mainbqsuv.o
+OBJ      = mainr.o
+LINKOBJ  = mainr.o
 LIBS     = -L"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib" -L"C:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib" -static-libgcc
 INCS     = -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include"
 CXXINCS  = -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++"
-BIN      = "boucles qui s'arrete un valeur.exe"
+BIN      = "repetetion .exe"
 CXXFLAGS = $(CXXINCS) 
 CFLAGS   = $(INCS) 
 RM       = rm.exe -f
@@ -24,5 +24,5 @@ clean: clean-custom
 $(BIN): $(OBJ)
 	$(CC) $(LINKOBJ) -o $(BIN) $(LIBS)
 
-mainbqsuv.o: mainbqsuv.c
-	$(CC) -c mainbqsuv.c -o mainbqsuv.o $(CFLAGS)
+mainr.o: mainr.c
+	$(CC) -c mainr.c -o mainr.o $(CFLAGS)
