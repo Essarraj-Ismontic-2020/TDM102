@@ -15,6 +15,7 @@ int main(int argc, char *argv[]) {
         	{rep++;
 			}
 		}
+		//sortie
     printf("repetition de %d est %d ",valeur,rep);
 	return 0;
 }
