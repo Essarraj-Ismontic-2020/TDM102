@@ -6,12 +6,9 @@
 int main(int argc, char *argv[]) {
 	//Entrer
 	int ValeurRechercher=0,PostResultat=-1;
-	int T[100];
-	int TailleTableau;
-	printf("Entrer la taille de tableau :");
-	scanf("%d",&TailleTableau);
+	int T[5];
 	int i;
-	for(i=0;i<TailleTableau;i++)
+	for(i=0;i<5;i++)
 	{printf("Entrer la valeur dans la case %d de le tableau: \n",i);
 	scanf("%d",&T[i]);
 	}
@@ -20,7 +17,7 @@ int main(int argc, char *argv[]) {
 	
 	//traitement
 	int x;
-	for(x=0;x<8;x++)
+	for(x=0;x<5;x++)
 	{if (ValeurRechercher ==T[x])
 	{(PostResultat=x);	}
 	}
