@@ -4,20 +4,27 @@
 /* run this program using the console pauser or add your own getch, system("pause") or input loop */
 
 int main(int argc, char *argv[]) {
-	//Affectation
-	int i,element,Tableau[5]={11,33,55,22,44};
 	//Entrer
-	printf("Entrez l'element que vous souhaitez rechercher: ");
-	scanf("%d",&element);
-	//Traitement et sortie
-	for (i=0;i<5;i++)
-	{
-     if (element!=Tableau[i])
-	 {
-	 printf("l'element %d ne ce trouve pas dans la case tableau[%d]\n",element,i);}
-	 else if (element=Tableau[i])
-	 { 
-	 printf("l'element %d ce trouve dans la case %d ,dans l'adresse '%d' \n",element,i,&Tableau[i]);}
+	int ValeurRechercher=0,PostResultat=-1;
+	int T[5];
+	int i;
+	for(i=0;i<5;i++)
+	{printf("Entrer la valeur dans la case %d de le tableau: \n",i);
+	scanf("%d",&T[i]);
 	}
+	printf("Donner la valeur que vous voulez rechercher:");
+	scanf("%d",&ValeurRechercher);
+	
+	//traitement
+	int x;
+	for(x=0;x<5;x++)
+	{if (ValeurRechercher ==T[x])
+	{(PostResultat=x);	}
+	}
+	//Sortir
+	if (PostResultat!=-1)
+	{printf("La valeur %d ce trouve dans la case %d de le tableau",ValeurRechercher,PostResultat);}
+	else{
+	printf("La valeur %d ne ce trouve pas dans le tableau",ValeurRechercher);}
 	return 0;
 }
