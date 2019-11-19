@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1574176924 source:c:\users\yussuf5\desktop\yapac\exemple composer 2\main.c
+	<stdio.h>
+	<stdlib.h>
+
