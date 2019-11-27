@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1571929356 source:c:\users\dell\desktop\tp oppenclassroom\partie 2 - techniques « avancées » du langage c\5.lire et écrire dans des fichiers\file\main.c
+	<stdio.h>
+	<stdlib.h>
+

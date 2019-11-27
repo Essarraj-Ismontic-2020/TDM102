@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1573229273 source:c:\users\dell\desktop\games developement\pendu\v 1.0\pendu v 1.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"head.h"
+
+1573012554 c:\users\dell\desktop\games developement\pendu\v 1.0\pendu v 1.0\head.h
+	<time.h>
+
+1572483326 source:c:\users\dell\desktop\games developement\pendu\v 1.0\pendu v 1.0\dico.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"dico.h"
+
+1572483326 c:\users\dell\desktop\games developement\pendu\v 1.0\pendu v 1.0\dico.h
+
+1573229310 source:c:\users\dell\desktop\tp oppenclassroom\partie 2 - techniques « avancées » du langage c\tp.pendu(jeux)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"head.h"
+
+1573012554 c:\users\dell\desktop\tp oppenclassroom\partie 2 - techniques « avancées » du langage c\tp.pendu(jeux)\head.h
+	<time.h>
+
