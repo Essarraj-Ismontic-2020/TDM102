@@ -1,0 +1,3 @@
+﻿1>------ Début de la génération : Projet : ConsoleApplication2, Configuration : Debug Any CPU ------
+1>  ConsoleApplication2 -> c:\users\tp\documents\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+========== Génération : 1 a réussi, 0 a échoué, 0 mis à jour, 0 a été ignoré ==========
