@@ -1,0 +1,12 @@
+C:\Users\TP\Desktop\diyae poo\projet 1\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\TP\Desktop\diyae poo\projet 1\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\TP\Desktop\diyae poo\projet 1\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\TP\Desktop\diyae poo\projet 1\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\TP\Desktop\diyae poo\projet 1\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\TP\Desktop\diyae poo\projet 1\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\TP\Documents\GitHub\TDM102\POO\Exemple bonjour c#\diyae fanoui\projet 1\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\TP\Documents\GitHub\TDM102\POO\Exemple bonjour c#\diyae fanoui\projet 1\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\TP\Documents\GitHub\TDM102\POO\Exemple bonjour c#\diyae fanoui\projet 1\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\TP\Documents\GitHub\TDM102\POO\Exemple bonjour c#\diyae fanoui\projet 1\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\TP\Documents\GitHub\TDM102\POO\Exemple bonjour c#\diyae fanoui\projet 1\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\TP\Documents\GitHub\TDM102\POO\Exemple bonjour c#\diyae fanoui\projet 1\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
