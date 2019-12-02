@@ -10,9 +10,9 @@ namespace ConsoleApplication3
     {
         static void Main(string[] args)
         {
-            Console.Write("Entrer votrte nom:");
-            string a = Console.ReadLine();
-            Console.WriteLine("Le nom que vous avez entrer est: " + a);
+            Console.Write("username :");
+            string user = Console.ReadLine();
+            Console.WriteLine("your username's : " + user);
 
         }
     }

@@ -4,16 +4,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleApplication3
+namespace ConsoleApplication1
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.Write("Entrer votrte nom:");
-            string a = Console.ReadLine();
-            Console.WriteLine("Le nom que vous avez entrer est: " + a);
-
+            Console.Write("hello c#");
+            Console.ReadKey();
         }
     }
 }

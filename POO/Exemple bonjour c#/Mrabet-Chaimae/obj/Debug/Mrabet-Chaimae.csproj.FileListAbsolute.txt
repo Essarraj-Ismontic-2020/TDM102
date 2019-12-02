@@ -1,0 +1,6 @@
+C:\Users\Stagiaire\Desktop\Mrabet-Chaimae\Mrabet-Chaimae\Mrabet-Chaimae\bin\Debug\Mrabet-Chaimae.exe.config
+C:\Users\Stagiaire\Desktop\Mrabet-Chaimae\Mrabet-Chaimae\Mrabet-Chaimae\bin\Debug\Mrabet-Chaimae.exe
+C:\Users\Stagiaire\Desktop\Mrabet-Chaimae\Mrabet-Chaimae\Mrabet-Chaimae\bin\Debug\Mrabet-Chaimae.pdb
+C:\Users\Stagiaire\Desktop\Mrabet-Chaimae\Mrabet-Chaimae\Mrabet-Chaimae\obj\Debug\Mrabet-Chaimae.csprojResolveAssemblyReference.cache
+C:\Users\Stagiaire\Desktop\Mrabet-Chaimae\Mrabet-Chaimae\Mrabet-Chaimae\obj\Debug\Mrabet-Chaimae.exe
+C:\Users\Stagiaire\Desktop\Mrabet-Chaimae\Mrabet-Chaimae\Mrabet-Chaimae\obj\Debug\Mrabet-Chaimae.pdb
