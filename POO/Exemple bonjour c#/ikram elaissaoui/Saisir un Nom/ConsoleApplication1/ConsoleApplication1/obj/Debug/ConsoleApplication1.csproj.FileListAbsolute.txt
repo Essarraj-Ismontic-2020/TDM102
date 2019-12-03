@@ -1,0 +1,6 @@
+G:\POO\Saisir un Nom\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+G:\POO\Saisir un Nom\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+G:\POO\Saisir un Nom\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+G:\POO\Saisir un Nom\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+G:\POO\Saisir un Nom\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+G:\POO\Saisir un Nom\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

@@ -1,0 +1,6 @@
+F:\taher\c#\saisir un nom\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+F:\taher\c#\saisir un nom\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+F:\taher\c#\saisir un nom\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+F:\taher\c#\saisir un nom\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+F:\taher\c#\saisir un nom\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+F:\taher\c#\saisir un nom\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

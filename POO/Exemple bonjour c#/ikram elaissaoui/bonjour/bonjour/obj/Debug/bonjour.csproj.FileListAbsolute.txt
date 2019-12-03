@@ -1,0 +1,6 @@
+E:\taher\c#\bonjour\bonjour\bin\Debug\bonjour.exe.config
+E:\taher\c#\bonjour\bonjour\bin\Debug\bonjour.exe
+E:\taher\c#\bonjour\bonjour\bin\Debug\bonjour.pdb
+E:\taher\c#\bonjour\bonjour\obj\Debug\bonjour.csprojResolveAssemblyReference.cache
+E:\taher\c#\bonjour\bonjour\obj\Debug\bonjour.exe
+E:\taher\c#\bonjour\bonjour\obj\Debug\bonjour.pdb
