@@ -1,0 +1,6 @@
+C:\Users\TP\Desktop\Fatima_zahrae\fati\fati\bin\Debug\fati.exe.config
+C:\Users\TP\Desktop\Fatima_zahrae\fati\fati\bin\Debug\fati.exe
+C:\Users\TP\Desktop\Fatima_zahrae\fati\fati\bin\Debug\fati.pdb
+C:\Users\TP\Desktop\Fatima_zahrae\fati\fati\obj\Debug\fati.csprojResolveAssemblyReference.cache
+C:\Users\TP\Desktop\Fatima_zahrae\fati\fati\obj\Debug\fati.exe
+C:\Users\TP\Desktop\Fatima_zahrae\fati\fati\obj\Debug\fati.pdb
