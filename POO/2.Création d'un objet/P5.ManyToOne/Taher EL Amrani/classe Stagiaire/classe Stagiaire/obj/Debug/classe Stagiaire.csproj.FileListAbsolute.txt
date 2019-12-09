@@ -1,0 +1,6 @@
+C:\Users\Stagiaire\Desktop\classe Stagiaire\classe Stagiaire\bin\Debug\classe Stagiaire.exe.config
+C:\Users\Stagiaire\Desktop\classe Stagiaire\classe Stagiaire\bin\Debug\classe Stagiaire.exe
+C:\Users\Stagiaire\Desktop\classe Stagiaire\classe Stagiaire\bin\Debug\classe Stagiaire.pdb
+C:\Users\Stagiaire\Desktop\classe Stagiaire\classe Stagiaire\obj\Debug\classe Stagiaire.csprojResolveAssemblyReference.cache
+C:\Users\Stagiaire\Desktop\classe Stagiaire\classe Stagiaire\obj\Debug\classe Stagiaire.exe
+C:\Users\Stagiaire\Desktop\classe Stagiaire\classe Stagiaire\obj\Debug\classe Stagiaire.pdb

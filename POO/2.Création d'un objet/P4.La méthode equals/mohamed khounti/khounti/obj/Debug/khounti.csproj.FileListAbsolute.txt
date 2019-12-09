@@ -1,0 +1,9 @@
+C:\Users\Stagiaire\Desktop\c#\khounti\khounti\bin\Debug\khounti.exe.config
+C:\Users\Stagiaire\Desktop\c#\khounti\khounti\bin\Debug\khounti.exe
+C:\Users\Stagiaire\Desktop\c#\khounti\khounti\bin\Debug\khounti.pdb
+C:\Users\Stagiaire\Desktop\c#\khounti\khounti\obj\Debug\khounti.csprojResolveAssemblyReference.cache
+C:\Users\Stagiaire\Desktop\c#\khounti\khounti\obj\Debug\khounti.exe
+C:\Users\Stagiaire\Desktop\c#\khounti\khounti\obj\Debug\khounti.pdb
+C:\Users\TP\Documents\GitHub\TDM102\POO\2.Création d'un objet\P4.La méthode equals\mohamed khounti\khounti\bin\Debug\khounti.exe.config
+C:\Users\TP\Documents\GitHub\TDM102\POO\2.Création d'un objet\P4.La méthode equals\mohamed khounti\khounti\obj\Debug\khounti.exe
+C:\Users\TP\Documents\GitHub\TDM102\POO\2.Création d'un objet\P4.La méthode equals\mohamed khounti\khounti\obj\Debug\khounti.pdb

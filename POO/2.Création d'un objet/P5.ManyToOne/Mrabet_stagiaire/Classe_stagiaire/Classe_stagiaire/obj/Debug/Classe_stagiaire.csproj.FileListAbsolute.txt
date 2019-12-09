@@ -1,0 +1,6 @@
+C:\Users\TP\Desktop\Mrabet_stagiaire\Classe_stagiaire\Classe_stagiaire\bin\Debug\Classe_stagiaire.exe.config
+C:\Users\TP\Desktop\Mrabet_stagiaire\Classe_stagiaire\Classe_stagiaire\obj\Debug\Classe_stagiaire.csprojResolveAssemblyReference.cache
+C:\Users\TP\Desktop\Mrabet_stagiaire\Classe_stagiaire\Classe_stagiaire\bin\Debug\Classe_stagiaire.exe
+C:\Users\TP\Desktop\Mrabet_stagiaire\Classe_stagiaire\Classe_stagiaire\bin\Debug\Classe_stagiaire.pdb
+C:\Users\TP\Desktop\Mrabet_stagiaire\Classe_stagiaire\Classe_stagiaire\obj\Debug\Classe_stagiaire.exe
+C:\Users\TP\Desktop\Mrabet_stagiaire\Classe_stagiaire\Classe_stagiaire\obj\Debug\Classe_stagiaire.pdb

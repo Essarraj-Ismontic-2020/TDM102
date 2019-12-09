@@ -1,0 +1,6 @@
+C:\Users\TP\Documents\classe stagaire\classe stagaire\classe stagaire\bin\Debug\classe stagaire.exe.config
+C:\Users\TP\Documents\classe stagaire\classe stagaire\classe stagaire\obj\Debug\classe stagaire.csprojResolveAssemblyReference.cache
+C:\Users\TP\Documents\classe stagaire\classe stagaire\classe stagaire\bin\Debug\classe stagaire.exe
+C:\Users\TP\Documents\classe stagaire\classe stagaire\classe stagaire\bin\Debug\classe stagaire.pdb
+C:\Users\TP\Documents\classe stagaire\classe stagaire\classe stagaire\obj\Debug\classe stagaire.exe
+C:\Users\TP\Documents\classe stagaire\classe stagaire\classe stagaire\obj\Debug\classe stagaire.pdb

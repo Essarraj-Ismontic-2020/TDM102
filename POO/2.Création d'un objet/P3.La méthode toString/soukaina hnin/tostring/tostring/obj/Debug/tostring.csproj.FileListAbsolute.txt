@@ -1,0 +1,6 @@
+E:\hanine soukaina\tostring\tostring\bin\Debug\tostring.exe.config
+E:\hanine soukaina\tostring\tostring\obj\Debug\tostring.csprojResolveAssemblyReference.cache
+E:\hanine soukaina\tostring\tostring\bin\Debug\tostring.exe
+E:\hanine soukaina\tostring\tostring\bin\Debug\tostring.pdb
+E:\hanine soukaina\tostring\tostring\obj\Debug\tostring.exe
+E:\hanine soukaina\tostring\tostring\obj\Debug\tostring.pdb

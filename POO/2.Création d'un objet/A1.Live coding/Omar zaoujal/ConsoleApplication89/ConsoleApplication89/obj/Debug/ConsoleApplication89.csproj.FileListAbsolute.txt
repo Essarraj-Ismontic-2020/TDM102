@@ -1,0 +1,6 @@
+C:\Users\TP\Desktop\ConsoleApplication89\ConsoleApplication89\bin\Debug\ConsoleApplication89.exe.config
+C:\Users\TP\Desktop\ConsoleApplication89\ConsoleApplication89\bin\Debug\ConsoleApplication89.exe
+C:\Users\TP\Desktop\ConsoleApplication89\ConsoleApplication89\bin\Debug\ConsoleApplication89.pdb
+C:\Users\TP\Desktop\ConsoleApplication89\ConsoleApplication89\obj\Debug\ConsoleApplication89.csprojResolveAssemblyReference.cache
+C:\Users\TP\Desktop\ConsoleApplication89\ConsoleApplication89\obj\Debug\ConsoleApplication89.exe
+C:\Users\TP\Desktop\ConsoleApplication89\ConsoleApplication89\obj\Debug\ConsoleApplication89.pdb
