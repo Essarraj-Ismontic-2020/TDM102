@@ -1,0 +1,11 @@
+C:\Users\DELL\Desktop\EXEMPLES\Exercice C#\TP OPENCLASSROOM\Tp_MiniProject\Tp_MiniProject\bin\Debug\netcoreapp3.0\Tp_MiniProject.exe
+C:\Users\DELL\Desktop\EXEMPLES\Exercice C#\TP OPENCLASSROOM\Tp_MiniProject\Tp_MiniProject\bin\Debug\netcoreapp3.0\Tp_MiniProject.deps.json
+C:\Users\DELL\Desktop\EXEMPLES\Exercice C#\TP OPENCLASSROOM\Tp_MiniProject\Tp_MiniProject\bin\Debug\netcoreapp3.0\Tp_MiniProject.runtimeconfig.json
+C:\Users\DELL\Desktop\EXEMPLES\Exercice C#\TP OPENCLASSROOM\Tp_MiniProject\Tp_MiniProject\bin\Debug\netcoreapp3.0\Tp_MiniProject.runtimeconfig.dev.json
+C:\Users\DELL\Desktop\EXEMPLES\Exercice C#\TP OPENCLASSROOM\Tp_MiniProject\Tp_MiniProject\bin\Debug\netcoreapp3.0\Tp_MiniProject.dll
+C:\Users\DELL\Desktop\EXEMPLES\Exercice C#\TP OPENCLASSROOM\Tp_MiniProject\Tp_MiniProject\bin\Debug\netcoreapp3.0\Tp_MiniProject.pdb
+C:\Users\DELL\Desktop\EXEMPLES\Exercice C#\TP OPENCLASSROOM\Tp_MiniProject\Tp_MiniProject\obj\Debug\netcoreapp3.0\Tp_MiniProject.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\EXEMPLES\Exercice C#\TP OPENCLASSROOM\Tp_MiniProject\Tp_MiniProject\obj\Debug\netcoreapp3.0\Tp_MiniProject.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\EXEMPLES\Exercice C#\TP OPENCLASSROOM\Tp_MiniProject\Tp_MiniProject\obj\Debug\netcoreapp3.0\Tp_MiniProject.AssemblyInfo.cs
+C:\Users\DELL\Desktop\EXEMPLES\Exercice C#\TP OPENCLASSROOM\Tp_MiniProject\Tp_MiniProject\obj\Debug\netcoreapp3.0\Tp_MiniProject.dll
+C:\Users\DELL\Desktop\EXEMPLES\Exercice C#\TP OPENCLASSROOM\Tp_MiniProject\Tp_MiniProject\obj\Debug\netcoreapp3.0\Tp_MiniProject.pdb

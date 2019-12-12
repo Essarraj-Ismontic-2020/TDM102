@@ -7,3 +7,6 @@ C:\Users\Stagiaire\Desktop\wisal\projet2\ConsoleApplication1\ConsoleApplication1
 C:\Users\TP\Documents\GitHub\TDM102\POO\2.Création d'un objet\P5.ManyToOne\diyae fanoui\Nouveau dossier\projet2\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
 C:\Users\TP\Documents\GitHub\TDM102\POO\2.Création d'un objet\P5.ManyToOne\diyae fanoui\Nouveau dossier\projet2\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
 C:\Users\TP\Documents\GitHub\TDM102\POO\2.Création d'un objet\P5.ManyToOne\diyae fanoui\Nouveau dossier\projet2\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\TP\Documents\GitHub\TDM102\POO\2.Création d'un objet\P4.La méthode equals\diyae fanoui\Nouveau dossier\projet2\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\TP\Documents\GitHub\TDM102\POO\2.Création d'un objet\P4.La méthode equals\diyae fanoui\Nouveau dossier\projet2\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\TP\Documents\GitHub\TDM102\POO\2.Création d'un objet\P4.La méthode equals\diyae fanoui\Nouveau dossier\projet2\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

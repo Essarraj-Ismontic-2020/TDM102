@@ -1,0 +1,5 @@
+E:\Ma Darija\VISUALSTUDIO\Création de la classe Stagiaire\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
+E:\Ma Darija\VISUALSTUDIO\Création de la classe Stagiaire\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+E:\Ma Darija\VISUALSTUDIO\Création de la classe Stagiaire\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+E:\Ma Darija\VISUALSTUDIO\Création de la classe Stagiaire\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+E:\Ma Darija\VISUALSTUDIO\Création de la classe Stagiaire\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

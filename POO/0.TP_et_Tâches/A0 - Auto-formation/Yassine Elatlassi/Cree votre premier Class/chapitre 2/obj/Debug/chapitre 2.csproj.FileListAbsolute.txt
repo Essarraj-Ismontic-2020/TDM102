@@ -1,0 +1,6 @@
+C:\Users\TP\Desktop\Openclassroom\chapitre 2\chapitre 2\bin\Debug\chapitre 2.exe.config
+C:\Users\TP\Desktop\Openclassroom\chapitre 2\chapitre 2\bin\Debug\chapitre 2.exe
+C:\Users\TP\Desktop\Openclassroom\chapitre 2\chapitre 2\bin\Debug\chapitre 2.pdb
+C:\Users\TP\Desktop\Openclassroom\chapitre 2\chapitre 2\obj\Debug\chapitre 2.csprojResolveAssemblyReference.cache
+C:\Users\TP\Desktop\Openclassroom\chapitre 2\chapitre 2\obj\Debug\chapitre 2.exe
+C:\Users\TP\Desktop\Openclassroom\chapitre 2\chapitre 2\obj\Debug\chapitre 2.pdb

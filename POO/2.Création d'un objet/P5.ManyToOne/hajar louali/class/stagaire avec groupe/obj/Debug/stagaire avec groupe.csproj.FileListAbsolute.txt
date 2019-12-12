@@ -1,0 +1,18 @@
+F:\taher\c#\POO\many to one\stagaire avec groupe\stagaire avec groupe\bin\Debug\stagaire avec groupe.exe.config
+F:\taher\c#\POO\many to one\stagaire avec groupe\stagaire avec groupe\bin\Debug\stagaire avec groupe.exe
+F:\taher\c#\POO\many to one\stagaire avec groupe\stagaire avec groupe\bin\Debug\stagaire avec groupe.pdb
+F:\taher\c#\POO\many to one\stagaire avec groupe\stagaire avec groupe\obj\Debug\stagaire avec groupe.csprojResolveAssemblyReference.cache
+F:\taher\c#\POO\many to one\stagaire avec groupe\stagaire avec groupe\obj\Debug\stagaire avec groupe.exe
+F:\taher\c#\POO\many to one\stagaire avec groupe\stagaire avec groupe\obj\Debug\stagaire avec groupe.pdb
+E:\c#\4.Cree class group est l'utiliser avec class stagaire\stagaire avec groupe\stagaire avec groupe\bin\Debug\stagaire avec groupe.exe.config
+E:\c#\4.Cree class group est l'utiliser avec class stagaire\stagaire avec groupe\stagaire avec groupe\obj\Debug\stagaire avec groupe.exe
+E:\c#\4.Cree class group est l'utiliser avec class stagaire\stagaire avec groupe\stagaire avec groupe\obj\Debug\stagaire avec groupe.pdb
+E:\c#\4.Cree class group est l'utiliser avec class stagaire\stagaire avec groupe\stagaire avec groupe\bin\Debug\stagaire avec groupe.exe
+E:\c#\4.Cree class group est l'utiliser avec class stagaire\stagaire avec groupe\stagaire avec groupe\bin\Debug\stagaire avec groupe.pdb
+E:\c#\4.Cree class group est l'utiliser avec class stagaire\stagaire avec groupe\stagaire avec groupe\obj\Debug\stagaire avec groupe.csprojResolveAssemblyReference.cache
+F:\class\4.Cree class group est l'utiliser avec class stagaire\stagaire avec groupe\stagaire avec groupe\bin\Debug\stagaire avec groupe.exe.config
+F:\class\4.Cree class group est l'utiliser avec class stagaire\stagaire avec groupe\stagaire avec groupe\obj\Debug\stagaire avec groupe.exe
+F:\class\4.Cree class group est l'utiliser avec class stagaire\stagaire avec groupe\stagaire avec groupe\obj\Debug\stagaire avec groupe.pdb
+C:\Users\TP\Documents\GitHub\TDM102\POO\2.Création d'un objet\P5.ManyToOne\hajar louali\class\stagaire avec groupe\bin\Debug\stagaire avec groupe.exe.config
+C:\Users\TP\Documents\GitHub\TDM102\POO\2.Création d'un objet\P5.ManyToOne\hajar louali\class\stagaire avec groupe\obj\Debug\stagaire avec groupe.exe
+C:\Users\TP\Documents\GitHub\TDM102\POO\2.Création d'un objet\P5.ManyToOne\hajar louali\class\stagaire avec groupe\obj\Debug\stagaire avec groupe.pdb

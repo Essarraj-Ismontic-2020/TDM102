@@ -1,0 +1,6 @@
+C:\Users\TP\Desktop\constructeur\constructeur\bin\Debug\constructeur.exe.config
+C:\Users\TP\Desktop\constructeur\constructeur\obj\Debug\constructeur.csprojResolveAssemblyReference.cache
+C:\Users\TP\Desktop\constructeur\constructeur\bin\Debug\constructeur.exe
+C:\Users\TP\Desktop\constructeur\constructeur\bin\Debug\constructeur.pdb
+C:\Users\TP\Desktop\constructeur\constructeur\obj\Debug\constructeur.exe
+C:\Users\TP\Desktop\constructeur\constructeur\obj\Debug\constructeur.pdb

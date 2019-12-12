@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Tp_MiniProject/1.0.0": {
+        "runtime": {
+          "Tp_MiniProject.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tp_MiniProject/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,7 @@
+F:\repertoire c#\open classroom projet\chapitre 2\bin\Debug\chapitre 2.exe.config
+F:\repertoire c#\open classroom projet\chapitre 2\bin\Debug\chapitre 2.exe
+F:\repertoire c#\open classroom projet\chapitre 2\bin\Debug\chapitre 2.pdb
+F:\repertoire c#\open classroom projet\chapitre 2\obj\Debug\premier projet open classroom.csprojAssemblyReference.cache
+F:\repertoire c#\open classroom projet\chapitre 2\obj\Debug\premier projet open classroom.csproj.CoreCompileInputs.cache
+F:\repertoire c#\open classroom projet\chapitre 2\obj\Debug\chapitre 2.exe
+F:\repertoire c#\open classroom projet\chapitre 2\obj\Debug\chapitre 2.pdb

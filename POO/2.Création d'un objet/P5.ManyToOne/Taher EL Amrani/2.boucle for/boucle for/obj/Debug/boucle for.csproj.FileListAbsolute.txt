@@ -1,0 +1,6 @@
+G:\taher\c#\boucle for\boucle for\boucle for\bin\Debug\boucle for.exe.config
+G:\taher\c#\boucle for\boucle for\boucle for\bin\Debug\boucle for.exe
+G:\taher\c#\boucle for\boucle for\boucle for\bin\Debug\boucle for.pdb
+G:\taher\c#\boucle for\boucle for\boucle for\obj\Debug\boucle for.csprojResolveAssemblyReference.cache
+G:\taher\c#\boucle for\boucle for\boucle for\obj\Debug\boucle for.exe
+G:\taher\c#\boucle for\boucle for\boucle for\obj\Debug\boucle for.pdb

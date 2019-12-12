@@ -1,0 +1,6 @@
+C:\Users\TP\Desktop\Taher mini project\creation object\object\bin\Debug\@object.exe.config
+C:\Users\TP\Desktop\Taher mini project\creation object\object\bin\Debug\@object.exe
+C:\Users\TP\Desktop\Taher mini project\creation object\object\bin\Debug\@object.pdb
+C:\Users\TP\Desktop\Taher mini project\creation object\object\obj\Debug\object.csprojResolveAssemblyReference.cache
+C:\Users\TP\Desktop\Taher mini project\creation object\object\obj\Debug\@object.exe
+C:\Users\TP\Desktop\Taher mini project\creation object\object\obj\Debug\@object.pdb

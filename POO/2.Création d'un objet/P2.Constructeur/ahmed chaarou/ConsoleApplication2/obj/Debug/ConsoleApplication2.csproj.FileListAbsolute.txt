@@ -1,0 +1,2 @@
+C:\Users\TP\Desktop\MonAPP\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+E:\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config

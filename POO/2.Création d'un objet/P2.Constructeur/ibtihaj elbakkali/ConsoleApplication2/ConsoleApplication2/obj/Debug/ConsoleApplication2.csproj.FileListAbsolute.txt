@@ -1,0 +1,9 @@
+C:\Users\TP\Desktop\Oumaima El Musaui\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\TP\Desktop\Oumaima El Musaui\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\Users\TP\Desktop\Oumaima El Musaui\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\Users\TP\Desktop\Oumaima El Musaui\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache
+C:\Users\TP\Desktop\Oumaima El Musaui\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\TP\Desktop\Oumaima El Musaui\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+F:\classe de stagiaire\Oumaima El Musaui\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+F:\classe de stagiaire\Oumaima El Musaui\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+F:\classe de stagiaire\Oumaima El Musaui\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb

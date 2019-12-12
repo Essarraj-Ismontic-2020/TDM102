@@ -1,0 +1,6 @@
+C:\Users\Stagiaire\Desktop\equals\equals\bin\Debug\equals.exe.config
+C:\Users\Stagiaire\Desktop\equals\equals\bin\Debug\equals.exe
+C:\Users\Stagiaire\Desktop\equals\equals\bin\Debug\equals.pdb
+C:\Users\Stagiaire\Desktop\equals\equals\obj\Debug\equals.csprojResolveAssemblyReference.cache
+C:\Users\Stagiaire\Desktop\equals\equals\obj\Debug\equals.exe
+C:\Users\Stagiaire\Desktop\equals\equals\obj\Debug\equals.pdb
