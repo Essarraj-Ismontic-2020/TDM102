@@ -1,0 +1,7 @@
+C:\Users\Omar\Documents\omar-files\repertoire c#\to string\to_string\to_string\bin\Debug\to_string.exe.config
+C:\Users\Omar\Documents\omar-files\repertoire c#\to string\to_string\to_string\bin\Debug\to_string.exe
+C:\Users\Omar\Documents\omar-files\repertoire c#\to string\to_string\to_string\bin\Debug\to_string.pdb
+C:\Users\Omar\Documents\omar-files\repertoire c#\to string\to_string\to_string\obj\Debug\to_string.csprojAssemblyReference.cache
+C:\Users\Omar\Documents\omar-files\repertoire c#\to string\to_string\to_string\obj\Debug\to_string.csproj.CoreCompileInputs.cache
+C:\Users\Omar\Documents\omar-files\repertoire c#\to string\to_string\to_string\obj\Debug\to_string.exe
+C:\Users\Omar\Documents\omar-files\repertoire c#\to string\to_string\to_string\obj\Debug\to_string.pdb

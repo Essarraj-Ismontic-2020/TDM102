@@ -1,0 +1,7 @@
+C:\Users\Omar\Desktop\repertoire c#\equals exemple classroom\equals_exemple_classroom\equals_exemple_classroom\bin\Debug\equals_exemple_classroom.exe.config
+C:\Users\Omar\Desktop\repertoire c#\equals exemple classroom\equals_exemple_classroom\equals_exemple_classroom\bin\Debug\equals_exemple_classroom.exe
+C:\Users\Omar\Desktop\repertoire c#\equals exemple classroom\equals_exemple_classroom\equals_exemple_classroom\bin\Debug\equals_exemple_classroom.pdb
+C:\Users\Omar\Desktop\repertoire c#\equals exemple classroom\equals_exemple_classroom\equals_exemple_classroom\obj\Debug\equals_exemple_classroom.csprojAssemblyReference.cache
+C:\Users\Omar\Desktop\repertoire c#\equals exemple classroom\equals_exemple_classroom\equals_exemple_classroom\obj\Debug\equals_exemple_classroom.csproj.CoreCompileInputs.cache
+C:\Users\Omar\Desktop\repertoire c#\equals exemple classroom\equals_exemple_classroom\equals_exemple_classroom\obj\Debug\equals_exemple_classroom.exe
+C:\Users\Omar\Desktop\repertoire c#\equals exemple classroom\equals_exemple_classroom\equals_exemple_classroom\obj\Debug\equals_exemple_classroom.pdb

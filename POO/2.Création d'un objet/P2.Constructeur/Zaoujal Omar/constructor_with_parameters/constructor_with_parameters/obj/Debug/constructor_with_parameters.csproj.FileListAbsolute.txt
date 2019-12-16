@@ -1,0 +1,7 @@
+C:\Users\Omar\Desktop\repertoire c#\constructor with parameters\constructor_with_parameters\constructor_with_parameters\obj\Debug\constructor_with_parameters.csprojAssemblyReference.cache
+C:\Users\Omar\Desktop\repertoire c#\constructor with parameters\constructor_with_parameters\constructor_with_parameters\obj\Debug\constructor_with_parameters.csproj.CoreCompileInputs.cache
+C:\Users\Omar\Desktop\repertoire c#\constructor with parameters\constructor_with_parameters\constructor_with_parameters\bin\Debug\constructor_with_parameters.exe.config
+C:\Users\Omar\Desktop\repertoire c#\constructor with parameters\constructor_with_parameters\constructor_with_parameters\bin\Debug\constructor_with_parameters.exe
+C:\Users\Omar\Desktop\repertoire c#\constructor with parameters\constructor_with_parameters\constructor_with_parameters\bin\Debug\constructor_with_parameters.pdb
+C:\Users\Omar\Desktop\repertoire c#\constructor with parameters\constructor_with_parameters\constructor_with_parameters\obj\Debug\constructor_with_parameters.exe
+C:\Users\Omar\Desktop\repertoire c#\constructor with parameters\constructor_with_parameters\constructor_with_parameters\obj\Debug\constructor_with_parameters.pdb
