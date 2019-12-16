@@ -1,0 +1,6 @@
+C:\Users\Stagiaire\Desktop\mouad\manytoone\manytoone\bin\Debug\manytoone.exe.config
+C:\Users\Stagiaire\Desktop\mouad\manytoone\manytoone\obj\Debug\manytoone.csprojResolveAssemblyReference.cache
+C:\Users\Stagiaire\Desktop\mouad\manytoone\manytoone\bin\Debug\manytoone.exe
+C:\Users\Stagiaire\Desktop\mouad\manytoone\manytoone\bin\Debug\manytoone.pdb
+C:\Users\Stagiaire\Desktop\mouad\manytoone\manytoone\obj\Debug\manytoone.exe
+C:\Users\Stagiaire\Desktop\mouad\manytoone\manytoone\obj\Debug\manytoone.pdb

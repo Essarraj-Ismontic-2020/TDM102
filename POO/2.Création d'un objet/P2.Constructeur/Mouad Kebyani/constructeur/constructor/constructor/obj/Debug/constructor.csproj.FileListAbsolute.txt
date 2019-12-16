@@ -1,0 +1,6 @@
+E:\C sharp\constructor\constructor\constructor\bin\Debug\constructor.exe.config
+E:\C sharp\constructor\constructor\constructor\bin\Debug\constructor.exe
+E:\C sharp\constructor\constructor\constructor\bin\Debug\constructor.pdb
+E:\C sharp\constructor\constructor\constructor\obj\Debug\constructor.csprojResolveAssemblyReference.cache
+E:\C sharp\constructor\constructor\constructor\obj\Debug\constructor.exe
+E:\C sharp\constructor\constructor\constructor\obj\Debug\constructor.pdb
