@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\tp\tp\TP1\TP1\obj\Debug\netcoreapp3.1\TP1.csprojAssemblyReference.cache
+C:\Users\User\source\repos\tp\tp\TP1\TP1\obj\Debug\netcoreapp3.1\TP1.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\tp\tp\TP1\TP1\obj\Debug\netcoreapp3.1\TP1.AssemblyInfo.cs
+C:\Users\User\source\repos\tp\tp\TP1\TP1\bin\Debug\netcoreapp3.1\TP1.exe
+C:\Users\User\source\repos\tp\tp\TP1\TP1\bin\Debug\netcoreapp3.1\TP1.deps.json
+C:\Users\User\source\repos\tp\tp\TP1\TP1\bin\Debug\netcoreapp3.1\TP1.runtimeconfig.json
+C:\Users\User\source\repos\tp\tp\TP1\TP1\bin\Debug\netcoreapp3.1\TP1.runtimeconfig.dev.json
+C:\Users\User\source\repos\tp\tp\TP1\TP1\bin\Debug\netcoreapp3.1\TP1.dll
+C:\Users\User\source\repos\tp\tp\TP1\TP1\bin\Debug\netcoreapp3.1\TP1.pdb
+C:\Users\User\source\repos\tp\tp\TP1\TP1\obj\Debug\netcoreapp3.1\TP1.dll
+C:\Users\User\source\repos\tp\tp\TP1\TP1\obj\Debug\netcoreapp3.1\TP1.pdb
