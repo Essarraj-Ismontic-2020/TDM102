@@ -1,0 +1,6 @@
+C:\Users\Stagiaire\Desktop\Taher TPs\creation classe\creation classe\creation classe\bin\Debug\creation classe.exe.config
+C:\Users\Stagiaire\Desktop\Taher TPs\creation classe\creation classe\creation classe\bin\Debug\creation classe.exe
+C:\Users\Stagiaire\Desktop\Taher TPs\creation classe\creation classe\creation classe\bin\Debug\creation classe.pdb
+C:\Users\Stagiaire\Desktop\Taher TPs\creation classe\creation classe\creation classe\obj\Debug\creation classe.csprojResolveAssemblyReference.cache
+C:\Users\Stagiaire\Desktop\Taher TPs\creation classe\creation classe\creation classe\obj\Debug\creation classe.exe
+C:\Users\Stagiaire\Desktop\Taher TPs\creation classe\creation classe\creation classe\obj\Debug\creation classe.pdb

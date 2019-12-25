@@ -1,0 +1,2 @@
+E:\Ma Darija\VISUALSTUDIO\PROJECT 2001\TP 3 Héritage\La Classe Car Seller\Car Seller\Car Seller\bin\Debug\Car Seller.exe.config
+E:\Ma Darija\VISUALSTUDIO\PROJECT 2001\TP 3 Héritage\La Classe Car Seller\Car Seller\Car Seller\obj\Debug\Car Seller.csprojResolveAssemblyReference.cache

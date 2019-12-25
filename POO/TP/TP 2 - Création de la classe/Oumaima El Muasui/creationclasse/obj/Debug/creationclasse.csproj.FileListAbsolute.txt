@@ -1,0 +1,9 @@
+E:\c# pratique\cretion-class\creationclasse\creationclasse\bin\Debug\creationclasse.exe.config
+E:\c# pratique\cretion-class\creationclasse\creationclasse\bin\Debug\creationclasse.exe
+E:\c# pratique\cretion-class\creationclasse\creationclasse\bin\Debug\creationclasse.pdb
+E:\c# pratique\cretion-class\creationclasse\creationclasse\obj\Debug\creationclasse.csprojResolveAssemblyReference.cache
+E:\c# pratique\cretion-class\creationclasse\creationclasse\obj\Debug\creationclasse.exe
+E:\c# pratique\cretion-class\creationclasse\creationclasse\obj\Debug\creationclasse.pdb
+C:\Users\TP\Documents\GitHub\TDM102\POO\TP\TP 2 - Création de la classe\Oumaima El Muasui\creationclasse\bin\Debug\creationclasse.exe.config
+C:\Users\TP\Documents\GitHub\TDM102\POO\TP\TP 2 - Création de la classe\Oumaima El Muasui\creationclasse\obj\Debug\creationclasse.exe
+C:\Users\TP\Documents\GitHub\TDM102\POO\TP\TP 2 - Création de la classe\Oumaima El Muasui\creationclasse\obj\Debug\creationclasse.pdb

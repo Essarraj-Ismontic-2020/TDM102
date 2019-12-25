@@ -1,0 +1,11 @@
+C:\Users\P6\Desktop\express\exception\exception\bin\Debug\netcoreapp3.1\exception.exe
+C:\Users\P6\Desktop\express\exception\exception\bin\Debug\netcoreapp3.1\exception.deps.json
+C:\Users\P6\Desktop\express\exception\exception\bin\Debug\netcoreapp3.1\exception.runtimeconfig.json
+C:\Users\P6\Desktop\express\exception\exception\bin\Debug\netcoreapp3.1\exception.runtimeconfig.dev.json
+C:\Users\P6\Desktop\express\exception\exception\bin\Debug\netcoreapp3.1\exception.dll
+C:\Users\P6\Desktop\express\exception\exception\bin\Debug\netcoreapp3.1\exception.pdb
+C:\Users\P6\Desktop\express\exception\exception\obj\Debug\netcoreapp3.1\exception.csprojAssemblyReference.cache
+C:\Users\P6\Desktop\express\exception\exception\obj\Debug\netcoreapp3.1\exception.AssemblyInfoInputs.cache
+C:\Users\P6\Desktop\express\exception\exception\obj\Debug\netcoreapp3.1\exception.AssemblyInfo.cs
+C:\Users\P6\Desktop\express\exception\exception\obj\Debug\netcoreapp3.1\exception.dll
+C:\Users\P6\Desktop\express\exception\exception\obj\Debug\netcoreapp3.1\exception.pdb

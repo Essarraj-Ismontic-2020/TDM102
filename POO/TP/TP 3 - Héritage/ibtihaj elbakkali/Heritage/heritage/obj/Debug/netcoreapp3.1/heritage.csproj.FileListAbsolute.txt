@@ -1,0 +1,11 @@
+C:\Users\P6\Desktop\ikram\Heritage\Heritage\heritage\obj\Debug\netcoreapp3.1\heritage.csprojAssemblyReference.cache
+C:\Users\P6\Desktop\ikram\Heritage\Heritage\heritage\obj\Debug\netcoreapp3.1\heritage.AssemblyInfoInputs.cache
+C:\Users\P6\Desktop\ikram\Heritage\Heritage\heritage\obj\Debug\netcoreapp3.1\heritage.AssemblyInfo.cs
+C:\Users\P6\Desktop\ikram\Heritage\Heritage\heritage\bin\Debug\netcoreapp3.1\heritage.exe
+C:\Users\P6\Desktop\ikram\Heritage\Heritage\heritage\bin\Debug\netcoreapp3.1\heritage.deps.json
+C:\Users\P6\Desktop\ikram\Heritage\Heritage\heritage\bin\Debug\netcoreapp3.1\heritage.runtimeconfig.json
+C:\Users\P6\Desktop\ikram\Heritage\Heritage\heritage\bin\Debug\netcoreapp3.1\heritage.runtimeconfig.dev.json
+C:\Users\P6\Desktop\ikram\Heritage\Heritage\heritage\bin\Debug\netcoreapp3.1\heritage.dll
+C:\Users\P6\Desktop\ikram\Heritage\Heritage\heritage\bin\Debug\netcoreapp3.1\heritage.pdb
+C:\Users\P6\Desktop\ikram\Heritage\Heritage\heritage\obj\Debug\netcoreapp3.1\heritage.dll
+C:\Users\P6\Desktop\ikram\Heritage\Heritage\heritage\obj\Debug\netcoreapp3.1\heritage.pdb

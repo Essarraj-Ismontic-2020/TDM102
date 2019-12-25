@@ -1,0 +1,45 @@
+﻿1>------ Build started: Project: Car Seller, Configuration: Debug Any CPU ------
+1>E:\Ma Darija\VISUALSTUDIO\PROJECT 2001\TP 3 Héritage\La Classe Car Seller\Car Seller\Car Seller\Program.cs(17,27,17,30): error CS1525: Invalid expression term 'int'
+1>E:\Ma Darija\VISUALSTUDIO\PROJECT 2001\TP 3 Héritage\La Classe Car Seller\Car Seller\Car Seller\Program.cs(17,27,17,30): error CS0270: Array size cannot be specified in a variable declaration (try initializing with a 'new' expression)
+1>E:\Ma Darija\VISUALSTUDIO\PROJECT 2001\TP 3 Héritage\La Classe Car Seller\Car Seller\Car Seller\Program.cs(17,31,17,33): error CS1003: Syntax error, ',' expected
+1>E:\Ma Darija\VISUALSTUDIO\PROJECT 2001\TP 3 Héritage\La Classe Car Seller\Car Seller\Car Seller\Program.cs(17,31,17,33): error CS0270: Array size cannot be specified in a variable declaration (try initializing with a 'new' expression)
+1>E:\Ma Darija\VISUALSTUDIO\PROJECT 2001\TP 3 Héritage\La Classe Car Seller\Car Seller\Car Seller\Program.cs(17,35,17,41): error CS1525: Invalid expression term 'string'
+1>E:\Ma Darija\VISUALSTUDIO\PROJECT 2001\TP 3 Héritage\La Classe Car Seller\Car Seller\Car Seller\Program.cs(17,35,17,41): error CS0270: Array size cannot be specified in a variable declaration (try initializing with a 'new' expression)
+1>E:\Ma Darija\VISUALSTUDIO\PROJECT 2001\TP 3 Héritage\La Classe Car Seller\Car Seller\Car Seller\Program.cs(17,42,17,45): error CS1003: Syntax error, ',' expected
+1>E:\Ma Darija\VISUALSTUDIO\PROJECT 2001\TP 3 Héritage\La Classe Car Seller\Car Seller\Car Seller\Program.cs(17,42,17,45): error CS0270: Array size cannot be specified in a variable declaration (try initializing with a 'new' expression)
+1>E:\Ma Darija\VISUALSTUDIO\PROJECT 2001\TP 3 Héritage\La Classe Car Seller\Car Seller\Car Seller\Program.cs(17,47,17,53): error CS1525: Invalid expression term 'string'
+1>E:\Ma Darija\VISUALSTUDIO\PROJECT 2001\TP 3 Héritage\La Classe Car Seller\Car Seller\Car Seller\Program.cs(17,47,17,53): error CS0270: Array size cannot be specified in a variable declaration (try initializing with a 'new' expression)
+1>E:\Ma Darija\VISUALSTUDIO\PROJECT 2001\TP 3 Héritage\La Classe Car Seller\Car Seller\Car Seller\Program.cs(17,54,17,60): error CS1003: Syntax error, ',' expected
+1>E:\Ma Darija\VISUALSTUDIO\PROJECT 2001\TP 3 Héritage\La Classe Car Seller\Car Seller\Car Seller\Program.cs(17,54,17,60): error CS0270: Array size cannot be specified in a variable declaration (try initializing with a 'new' expression)
+1>E:\Ma Darija\VISUALSTUDIO\PROJECT 2001\TP 3 Héritage\La Classe Car Seller\Car Seller\Car Seller\Program.cs(17,62,17,68): error CS1525: Invalid expression term 'string'
+1>E:\Ma Darija\VISUALSTUDIO\PROJECT 2001\TP 3 Héritage\La Classe Car Seller\Car Seller\Car Seller\Program.cs(17,62,17,68): error CS0270: Array size cannot be specified in a variable declaration (try initializing with a 'new' expression)
+1>E:\Ma Darija\VISUALSTUDIO\PROJECT 2001\TP 3 Héritage\La Classe Car Seller\Car Seller\Car Seller\Program.cs(17,69,17,72): error CS1003: Syntax error, ',' expected
+1>E:\Ma Darija\VISUALSTUDIO\PROJECT 2001\TP 3 Héritage\La Classe Car Seller\Car Seller\Car Seller\Program.cs(17,69,17,72): error CS0270: Array size cannot be specified in a variable declaration (try initializing with a 'new' expression)
+1>E:\Ma Darija\VISUALSTUDIO\PROJECT 2001\TP 3 Héritage\La Classe Car Seller\Car Seller\Car Seller\Program.cs(18,13,18,14): error CS1519: Invalid token '{' in class, struct, or interface member declaration
+1>E:\Ma Darija\VISUALSTUDIO\PROJECT 2001\TP 3 Héritage\La Classe Car Seller\Car Seller\Car Seller\Program.cs(19,21,19,22): error CS1519: Invalid token '=' in class, struct, or interface member declaration
+1>E:\Ma Darija\VISUALSTUDIO\PROJECT 2001\TP 3 Héritage\La Classe Car Seller\Car Seller\Car Seller\Program.cs(19,25,19,26): error CS1519: Invalid token ';' in class, struct, or interface member declaration
+1>E:\Ma Darija\VISUALSTUDIO\PROJECT 2001\TP 3 Héritage\La Classe Car Seller\Car Seller\Car Seller\Program.cs(20,22,20,23): error CS1519: Invalid token '=' in class, struct, or interface member declaration
+1>E:\Ma Darija\VISUALSTUDIO\PROJECT 2001\TP 3 Héritage\La Classe Car Seller\Car Seller\Car Seller\Program.cs(20,27,20,28): error CS1519: Invalid token ';' in class, struct, or interface member declaration
+1>E:\Ma Darija\VISUALSTUDIO\PROJECT 2001\TP 3 Héritage\La Classe Car Seller\Car Seller\Car Seller\Program.cs(21,25,21,26): error CS1519: Invalid token '=' in class, struct, or interface member declaration
+1>E:\Ma Darija\VISUALSTUDIO\PROJECT 2001\TP 3 Héritage\La Classe Car Seller\Car Seller\Car Seller\Program.cs(21,33,21,34): error CS1519: Invalid token ';' in class, struct, or interface member declaration
+1>E:\Ma Darija\VISUALSTUDIO\PROJECT 2001\TP 3 Héritage\La Classe Car Seller\Car Seller\Car Seller\Program.cs(22,22,22,23): error CS1519: Invalid token '=' in class, struct, or interface member declaration
+1>E:\Ma Darija\VISUALSTUDIO\PROJECT 2001\TP 3 Héritage\La Classe Car Seller\Car Seller\Car Seller\Program.cs(22,27,22,28): error CS1519: Invalid token ';' in class, struct, or interface member declaration
+1>E:\Ma Darija\VISUALSTUDIO\PROJECT 2001\TP 3 Héritage\La Classe Car Seller\Car Seller\Car Seller\Program.cs(25,21,25,27): error CS0116: A namespace cannot directly contain members such as fields or methods
+1>E:\Ma Darija\VISUALSTUDIO\PROJECT 2001\TP 3 Héritage\La Classe Car Seller\Car Seller\Car Seller\Program.cs(25,28,25,29): error CS1022: Type or namespace definition, or end-of-file expected
+1>E:\Ma Darija\VISUALSTUDIO\PROJECT 2001\TP 3 Héritage\La Classe Car Seller\Car Seller\Car Seller\Program.cs(25,29,25,35): error CS0116: A namespace cannot directly contain members such as fields or methods
+1>E:\Ma Darija\VISUALSTUDIO\PROJECT 2001\TP 3 Héritage\La Classe Car Seller\Car Seller\Car Seller\Program.cs(25,35,25,36): error CS1022: Type or namespace definition, or end-of-file expected
+1>E:\Ma Darija\VISUALSTUDIO\PROJECT 2001\TP 3 Héritage\La Classe Car Seller\Car Seller\Car Seller\Program.cs(26,16,26,19): error CS0116: A namespace cannot directly contain members such as fields or methods
+1>E:\Ma Darija\VISUALSTUDIO\PROJECT 2001\TP 3 Héritage\La Classe Car Seller\Car Seller\Car Seller\Program.cs(26,20,26,21): error CS1022: Type or namespace definition, or end-of-file expected
+1>E:\Ma Darija\VISUALSTUDIO\PROJECT 2001\TP 3 Héritage\La Classe Car Seller\Car Seller\Car Seller\Program.cs(26,26,26,28): error CS0116: A namespace cannot directly contain members such as fields or methods
+1>E:\Ma Darija\VISUALSTUDIO\PROJECT 2001\TP 3 Héritage\La Classe Car Seller\Car Seller\Car Seller\Program.cs(26,28,26,29): error CS1022: Type or namespace definition, or end-of-file expected
+1>E:\Ma Darija\VISUALSTUDIO\PROJECT 2001\TP 3 Héritage\La Classe Car Seller\Car Seller\Car Seller\Program.cs(30,18,30,19): error CS1514: { expected
+1>E:\Ma Darija\VISUALSTUDIO\PROJECT 2001\TP 3 Héritage\La Classe Car Seller\Car Seller\Car Seller\Program.cs(30,18,30,19): error CS1513: } expected
+1>E:\Ma Darija\VISUALSTUDIO\PROJECT 2001\TP 3 Héritage\La Classe Car Seller\Car Seller\Car Seller\Program.cs(31,38,31,39): error CS1001: Identifier expected
+1>E:\Ma Darija\VISUALSTUDIO\PROJECT 2001\TP 3 Héritage\La Classe Car Seller\Car Seller\Car Seller\Program.cs(33,19,33,25): error CS1525: Invalid expression term 'object'
+1>E:\Ma Darija\VISUALSTUDIO\PROJECT 2001\TP 3 Héritage\La Classe Car Seller\Car Seller\Car Seller\Program.cs(33,39,33,39): error CS1002: ; expected
+1>E:\Ma Darija\VISUALSTUDIO\PROJECT 2001\TP 3 Héritage\La Classe Car Seller\Car Seller\Car Seller\Program.cs(36,30,36,30): error CS1525: Invalid expression term 'else'
+1>E:\Ma Darija\VISUALSTUDIO\PROJECT 2001\TP 3 Héritage\La Classe Car Seller\Car Seller\Car Seller\Program.cs(36,30,36,30): error CS1002: ; expected
+1>E:\Ma Darija\VISUALSTUDIO\PROJECT 2001\TP 3 Héritage\La Classe Car Seller\Car Seller\Car Seller\Program.cs(38,21,38,21): error CS1002: ; expected
+1>E:\Ma Darija\VISUALSTUDIO\PROJECT 2001\TP 3 Héritage\La Classe Car Seller\Car Seller\Car Seller\Program.cs(51,5,51,6): error CS1022: Type or namespace definition, or end-of-file expected
+1>E:\Ma Darija\VISUALSTUDIO\PROJECT 2001\TP 3 Héritage\La Classe Car Seller\Car Seller\Car Seller\Program.cs(52,1,52,2): error CS1022: Type or namespace definition, or end-of-file expected
+========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========

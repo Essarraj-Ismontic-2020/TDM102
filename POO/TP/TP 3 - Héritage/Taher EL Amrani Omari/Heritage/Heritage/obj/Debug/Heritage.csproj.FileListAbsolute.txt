@@ -1,0 +1,6 @@
+C:\Users\Stagiaire\Desktop\Taher TPs\creation classe\heritage\Heritage\Heritage\bin\Debug\Heritage.exe.config
+C:\Users\Stagiaire\Desktop\Taher TPs\creation classe\heritage\Heritage\Heritage\bin\Debug\Heritage.exe
+C:\Users\Stagiaire\Desktop\Taher TPs\creation classe\heritage\Heritage\Heritage\bin\Debug\Heritage.pdb
+C:\Users\Stagiaire\Desktop\Taher TPs\creation classe\heritage\Heritage\Heritage\obj\Debug\Heritage.csprojResolveAssemblyReference.cache
+C:\Users\Stagiaire\Desktop\Taher TPs\creation classe\heritage\Heritage\Heritage\obj\Debug\Heritage.exe
+C:\Users\Stagiaire\Desktop\Taher TPs\creation classe\heritage\Heritage\Heritage\obj\Debug\Heritage.pdb

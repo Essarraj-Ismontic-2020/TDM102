@@ -1,0 +1,6 @@
+E:\Exxception\Exception\Exception\bin\Debug\Exception.exe.config
+E:\Exxception\Exception\Exception\obj\Debug\Exception.csprojResolveAssemblyReference.cache
+E:\Exxception\Exception\Exception\bin\Debug\Exception.exe
+E:\Exxception\Exception\Exception\bin\Debug\Exception.pdb
+E:\Exxception\Exception\Exception\obj\Debug\Exception.exe
+E:\Exxception\Exception\Exception\obj\Debug\Exception.pdb

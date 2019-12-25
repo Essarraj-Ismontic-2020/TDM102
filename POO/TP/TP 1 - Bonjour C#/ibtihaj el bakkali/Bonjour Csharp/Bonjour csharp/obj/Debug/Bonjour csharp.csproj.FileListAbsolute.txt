@@ -1,0 +1,9 @@
+C:\Users\Stagiaire\Desktop\Taher TPs\creation classe\bonjour csharp\Bonjour csharp\Bonjour csharp\bin\Debug\Bonjour csharp.exe.config
+C:\Users\Stagiaire\Desktop\Taher TPs\creation classe\bonjour csharp\Bonjour csharp\Bonjour csharp\bin\Debug\Bonjour csharp.exe
+C:\Users\Stagiaire\Desktop\Taher TPs\creation classe\bonjour csharp\Bonjour csharp\Bonjour csharp\bin\Debug\Bonjour csharp.pdb
+C:\Users\Stagiaire\Desktop\Taher TPs\creation classe\bonjour csharp\Bonjour csharp\Bonjour csharp\obj\Debug\Bonjour csharp.csprojResolveAssemblyReference.cache
+C:\Users\Stagiaire\Desktop\Taher TPs\creation classe\bonjour csharp\Bonjour csharp\Bonjour csharp\obj\Debug\Bonjour csharp.exe
+C:\Users\Stagiaire\Desktop\Taher TPs\creation classe\bonjour csharp\Bonjour csharp\Bonjour csharp\obj\Debug\Bonjour csharp.pdb
+E:\Bonjour Csharp\Bonjour csharp\bin\Debug\Bonjour csharp.exe.config
+E:\Bonjour Csharp\Bonjour csharp\obj\Debug\Bonjour csharp.exe
+E:\Bonjour Csharp\Bonjour csharp\obj\Debug\Bonjour csharp.pdb
